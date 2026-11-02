@@ -1,0 +1,17 @@
+{
+  "name": "dentist-website-examples",
+  "version": "1.0.0",
+  "description": "10 Dentist Website Examples & Design Ideas showcase website",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "dentist",
+    "website-examples",
+    "web-design",
+    "inspiration"
+  ],
+  "author": "",
+  "license": "ISC"
+}
